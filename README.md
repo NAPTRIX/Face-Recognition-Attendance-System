@@ -28,7 +28,7 @@ A Python-based face recognition system using OpenCV for real-time attendance tra
 
 1. **Run the Script:**
    ```bash
-   python FRL.py
+   python FRAS.py
 2. **Follow the Prompts.**
 
 This project has been on hold for a long time, and I have just started to finish it. I will soon add a GUI and probably more features
