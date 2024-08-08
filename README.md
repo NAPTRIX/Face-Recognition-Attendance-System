@@ -18,7 +18,7 @@ A Python-based face recognition system using OpenCV for real-time attendance tra
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/face-recognition-attendance-system.git
+   git clone https://github.com/NAPTRIX/face-recognition-attendance-system.git
    cd face-recognition-attendance-system
 2. **Install Required Libraries:**
    ```bash
