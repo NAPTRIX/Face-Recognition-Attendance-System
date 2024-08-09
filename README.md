@@ -32,3 +32,6 @@ A Python-based face recognition system using OpenCV for real-time attendance tra
 2. **Follow the Prompts.**
 
 This project has been on hold for a long time, and I have just started to finish it. I will soon add a GUI and probably more features
+
+![image](https://github.com/user-attachments/assets/e96471e7-1be5-40d9-8494-69b21d64e263)
+
